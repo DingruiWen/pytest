@@ -1,0 +1,19 @@
+hero:
+  name: annie
+  word: Flame is the toy I like
+  Hp: 3445.5
+
+hero_names:
+  - annie
+  - xinzhao
+  - masteryi
+
+heros:
+  - name: 黄忠
+    word: 周日被我射熄火了
+    Hp: 3300
+
+heros_name_list:
+  - - annie
+    - xinzhao
+    - masteryi
